@@ -1,0 +1,5 @@
+Transient Otoacoustic emissions (TOAEs) or transient evoked Otoacoustic emissions (TEOAEs): Sounds emitted in response to an acoustic stimulus of very short duration; usually clicks but can be tone-bursts. 
+The use of otoacoustic emissions (OAEs) during the first few days after birth has proven to be a simple, rapid, accurate and cost-effective neonatal hearing screening. They provide a non-invasive objective indicator of healthy cochlear function and are widely used in universal newborn hearing screening programs.
+Fingerprints and iris have being the best person recognition systems. But, unfortunately they are not fool proof. For example usage of fake fingers to unlock a phone and fooling the iris scanner of a phone by taking a high resolution picture of a dummy eye.
+So, we decided to look into OAEs since they are unique to each individual since the inner cannot be mimmicked. Simulated OAE (TEOAE) can be produced even by partially deaf people.
+We made use of these OAEs and tried to build a person authentication system
